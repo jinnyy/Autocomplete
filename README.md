@@ -5,7 +5,7 @@
 
 
 * Elastic Stack 6
-  - Elasticsearch 6.5.0
+  - Elasticsearch 6.5.1
   - Kibana 6.*
 * Python 3.6
 * Apache Web log
