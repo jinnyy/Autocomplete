@@ -15,5 +15,5 @@
 
 ## Architecture
 <div align="center">
-  <img src="https://github.com/jinnyy/Autocomplete/raw/master/images/architecture.jpg" width=500 />
+  <img src="https://github.com/jinnyy/Autocomplete/raw/master/images/architecture.jpg" width=700 />
 </div>
